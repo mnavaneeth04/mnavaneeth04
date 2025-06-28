@@ -19,9 +19,6 @@ Hi there! I'm **Navaneeth**, an engineering student passionate about **IoT**, **
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📈 GitHub Stats  
-![Navaneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navaneeth-m&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-m&layout=compact&theme=radical)
 
 ## ✨ Recent Projects  
 - 🧠 **Zomato Data Analysis** with Data exploration and Visualisation
