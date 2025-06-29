@@ -4,7 +4,7 @@
 ## About Me  
 Hi there! I'm **Navaneeth**, an engineering student passionate about **IoT**, **data science**, and **embedded systems**. I love creating smart, real-world solutions—from home automation and robotics to intelligent health diagnostics and network monitoring.
 
-- 🔭 I’m currently working on projects involving **ESP32-based IoT systems**, **machine learning for medical diagnostics**, and **cloud-integrated automation**.  
+- 🔭 I’m currently working on projects involving **ESP32-based IoT systems**, **machine learning**, and **cloud-integrated automation**.  
 - 🌱 Actively exploring advanced topics in **data science** and **deep learning**
 - 💡 Enthusiastic about solving real-world problems by combining **IoT hardware** with **predictive analytics**.  
 - 🤝 Open to collaborations on **open-source**, **research-driven**, or **community-focused tech projects**.
